@@ -1,0 +1,110 @@
+
+[
+    {
+    "id":1,
+    "Producto": "Remera de Argentina",
+    "category": "camisetas",
+    "Precio": "$ 10.500",
+    "foto":"/public/productos/Remera_Arg_titular.png"
+    
+    },
+    {
+    "id":2,
+    "Producto": "Remera de Argentina alternativa",
+    "category": "camisetas",
+    "Precio": "$ 10.500",
+    "foto":"../public/productos/Remera_Arg_alternativa.png"
+    },
+    {
+    "id":3,
+    "Producto": "Remera de Argentina entrenamiento",
+    "category": "camisetas",
+    "Precio": "$ 10.500",
+    "foto":"/public/productos/Remera_Arg_entrenamiento.png"
+    },
+    {
+    "id":4,
+    "Producto": "Remera de river",
+    "category": "camisetas",
+    "Precio": "$ 10.500",
+    "foto":"/public/productos/Remera_river.png"
+    },
+    {
+    "id":5,
+    "Producto": "Remera de Boca",
+    "category": "camisetas",
+    "Precio": "$ 10.500",
+    "foto":"/public/productos/Remera_boca.png"
+    },
+    {
+    "id": 6,
+    "Producto": "botines-Adidas predator club",
+    "category":"botines" ,
+    "Precio": "$370.000",
+    "foto":"/public/productos/predator_adidas.png"
+    },
+    {    
+    "id": 7,
+    "Producto": "botines-Adidas Copa Pure II ",
+    "category": "botines", 
+    "Precio":"$95.000",
+    "foto":"/public/productos/botines_copa_pure_Adidas.png"
+    },
+    {
+    "id": 8,
+    "Producto": "botines-Nike Phantom GX Pro",
+    "category": "botines", 
+    "Precio": "$255.000",
+    "foto":"/public/productos/botines_nike_phantomgxpro.png"
+    },
+    {
+    "id": 9,
+    "Producto": "botines- Nike-Mercurial",
+    "category": "botines", 
+    "Precio": "$500.000",
+    "foto":"/public/productos/nike_mercurial.png"
+    },
+    {
+    "id": 10,
+    "Producto": "botines Puma Ultra Match",
+    "category": "botines", 
+    "Precio": "$110.000",
+    "foto":"/public/productos/botines_puma_ultramatch.png"
+    },
+    {
+    "id": 11,
+    "Producto": "Guantes Puma FutureZ",
+    "category": "guantes", 
+    "Precio": "$120.000",
+    "foto":"/public/productos/guantes_pumaFutureZ.png"
+    },
+    {
+    "id": 12,
+    "Producto": "guantes adidas copaclub",
+    "category": "guantes", 
+    "Precio": "$100.000",
+    "foto":"/public/productos/guantes_copaclub.png"
+    },
+    {
+    "id": 13,
+    "Producto": "guantes adidas training",
+    "category": "guantes", 
+    "Precio": "$80.000",
+    "foto":"/public/productos/guantes_adidas_Training.png"
+    
+    },
+    {   
+    "id": 14,
+    "Producto": "guantes adidas predator",
+    "category": "guantes", 
+    "Precio": "$110.000",
+    "foto":"/public/productos/guantes_predator.png"
+    },
+    {
+    "id": 15,
+    "Producto": "guantes nike",
+    "category": "guantes", 
+    "Precio": "$90.000",
+    "foto":"/public/productos/guantes_nike.png"
+    }
+]
